@@ -1,1 +1,3 @@
-# introdu-o-programa-o
+#include <studio.h|>
+
+int main() {
